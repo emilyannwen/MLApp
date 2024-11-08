@@ -1,5 +1,5 @@
 # Customer Churn Prediction Model
-Test 111111
+
 A machine learning model to predict customer churn probability using historical customer data. This project helps businesses identify customers who are likely to discontinue their services, enabling proactive retention strategies.
 
 ## 🎯 Features
